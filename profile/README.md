@@ -1,6 +1,6 @@
 ## **PurpleMonkeyMC** : _Professional Parkour Competitions & Maps_
 
-<img align="right" height=20% width=20% src="https://raw.githubusercontent.com/PurpleMonkeyMC/.github/refs/heads/main/imgs/logo.png" />
+<img align="right" height=15% width=15% src="https://raw.githubusercontent.com/PurpleMonkeyMC/.github/refs/heads/main/imgs/logo.png" />
 
 We are the development team of the _MineCraft_ parkour game server,
 aiming to provide 
